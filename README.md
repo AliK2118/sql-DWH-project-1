@@ -1,7 +1,7 @@
 # sql-DWH-project-1
-How to build a DWH with SQl server including ETL processes, dta modeling and analytics
+How to build a DWH with SQL server including ETL processes, data modeling and analytics
 
-# A data warehouse and Analytics Project
+# A Data Warehouse and Analytics Project
 
 In this project a simple but comprehensive data warehouse is built that can be used to provide analytical solutions based on generated actionable insights. It is This project is designed for my portfolio in order to showcase some industrybest practices in data analytics and engineering.
 
