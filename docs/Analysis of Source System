@@ -1,16 +1,19 @@
-# Business Context & Ownership
+# Business Context & 
+
 - who owns the data?
 - What business processes does it supportr?
 - System and data documentations
 - Data Model and data catalog
 
 # Architecture & Technology Stack
+
 - How is the data stored?
 (SQL Server, Oracle or AWS, Azure....)
 - What are the Integration capabilities?
 (API, kafka, File Extract, Dire DB, ...)
 
 # Extract & Load
+
 - Incremental vs. Full Load?
 - DAta scope and Historical Needs
 - What is the expected size of the extracts?
@@ -18,3 +21,4 @@
 - How to avoid impacting the source system's performance?
 - authentication and authorization
 (tokens. SSH key.. VPN, IP whitelisting, ...)
+
